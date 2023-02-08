@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Asad Salar 👋</h1>
-<h3 align="center">A data science Maniac !!</h3>
+<h3 align="center">A Data Maniac !!</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
